@@ -1,0 +1,6 @@
+// longest palindromic substring
+public class Solution {
+    public string LongestPalindrome(string s) {
+        
+    }
+}
