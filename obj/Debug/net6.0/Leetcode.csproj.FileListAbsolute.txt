@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\Leetcode\obj\Debug\net6.0\Leetcode.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Leetcode\obj\Debug\net6.0\Leetcode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Leetcode\obj\Debug\net6.0\Leetcode.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Leetcode\obj\Debug\net6.0\Leetcode.AssemblyInfo.cs
+C:\Users\admin\source\repos\Leetcode\obj\Debug\net6.0\Leetcode.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Leetcode\bin\Debug\net6.0\Leetcode.exe
+C:\Users\admin\source\repos\Leetcode\bin\Debug\net6.0\Leetcode.deps.json
+C:\Users\admin\source\repos\Leetcode\bin\Debug\net6.0\Leetcode.runtimeconfig.json
+C:\Users\admin\source\repos\Leetcode\bin\Debug\net6.0\Leetcode.dll
+C:\Users\admin\source\repos\Leetcode\bin\Debug\net6.0\ref\Leetcode.dll
+C:\Users\admin\source\repos\Leetcode\bin\Debug\net6.0\Leetcode.pdb
+C:\Users\admin\source\repos\Leetcode\obj\Debug\net6.0\Leetcode.dll
+C:\Users\admin\source\repos\Leetcode\obj\Debug\net6.0\ref\Leetcode.dll
+C:\Users\admin\source\repos\Leetcode\obj\Debug\net6.0\Leetcode.pdb
+C:\Users\admin\source\repos\Leetcode\obj\Debug\net6.0\Leetcode.genruntimeconfig.cache
